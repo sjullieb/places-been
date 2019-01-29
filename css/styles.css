@@ -1,0 +1,10 @@
+img{
+  width: 400px;
+  padding: 10px;
+}
+
+.small{
+  width: 200px;
+  float: left;
+  padding: 5px;
+}
